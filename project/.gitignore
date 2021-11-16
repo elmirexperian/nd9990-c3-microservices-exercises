@@ -1,0 +1,6 @@
+aws-*.yaml
+env-*.yaml
+backend-*.yaml
+frontend-*.yaml
+reverseproxy-*.yaml
+*.cfg
